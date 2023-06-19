@@ -5,7 +5,7 @@ Project Title: ShopZy - The Ultimate Shopping Platform
 Project Description:
 ShopZy is an e-commerce platform that aims to offer a one-stop shopping experience for various products, including groceries, electronics, clothing, and more. Inspired by popular retail chains like Walmart, the main goal of this project is to create an intuitive and user-friendly shopping portal that enables customers to browse, select, and purchase products with ease.
 
-The main stakeholders of ShopSquare are:
+The main stakeholders of ShopZy are:
 
 1.Administrator
 2.Vendor
