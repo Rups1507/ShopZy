@@ -1,4 +1,3 @@
-# dead-meat-2472
 
 Project Title: ShopZy - The Ultimate Shopping Platform
 
