@@ -41,4 +41,4 @@ Customer Role:
         5.Access their purchase history for future reference.
         6.Delete their account if they no longer wish to use the service.
 
-Deployed Link : [ShopZy] (https://drive.google.com/drive/folders/13IJ6OKW38K7pas9KmUUajSTFwn9bAI43?usp=sharing)
+Deployed Link : [ShopZy](https://drive.google.com/drive/folders/13IJ6OKW38K7pas9KmUUajSTFwn9bAI43?usp=sharing)
